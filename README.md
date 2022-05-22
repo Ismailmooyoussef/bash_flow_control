@@ -4,4 +4,3 @@ You work for Universe Incorporated. One of your users — cloud_user — has an 
 
 Once complete, ensure it runs and successfully backs up the required files. Use the sleep command to verify that a Ctrl+C is trapped correctly.
 
-If you get stuck, feel free to check out the solution video or the detailed instructions under each objective. Good luck!
